@@ -1,0 +1,14 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "description": "watermark program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aditya Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.6.0"
+  }
+}
